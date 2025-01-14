@@ -25,5 +25,8 @@ bottoneGenera.addEventListener("click", (event) => {
 
     console.log("il prezzo è: ", costo.toFixed(2));
 
+    kmDaPerc.value = "";
+    etaUtente.value = "";
+
 });
 
